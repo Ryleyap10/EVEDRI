@@ -1,0 +1,11 @@
+C:\Users\ACT-STUDENT\Desktop\Yap_Lambda\Yap_Lambda\bin\Debug\Yap_Lambda.exe.config
+C:\Users\ACT-STUDENT\Desktop\Yap_Lambda\Yap_Lambda\bin\Debug\Yap_Lambda.exe
+C:\Users\ACT-STUDENT\Desktop\Yap_Lambda\Yap_Lambda\bin\Debug\Yap_Lambda.pdb
+C:\Users\ACT-STUDENT\Desktop\Yap_Lambda\Yap_Lambda\obj\Debug\Yap_Lambda.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\Yap_Lambda\Yap_Lambda\obj\Debug\Yap_Lambda.Form1.resources
+C:\Users\ACT-STUDENT\Desktop\Yap_Lambda\Yap_Lambda\obj\Debug\Yap_Lambda.Properties.Resources.resources
+C:\Users\ACT-STUDENT\Desktop\Yap_Lambda\Yap_Lambda\obj\Debug\Yap_Lambda.csproj.GenerateResource.cache
+C:\Users\ACT-STUDENT\Desktop\Yap_Lambda\Yap_Lambda\obj\Debug\Yap_Lambda.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\Yap_Lambda\Yap_Lambda\obj\Debug\Yap_Lambda.exe
+C:\Users\ACT-STUDENT\Desktop\Yap_Lambda\Yap_Lambda\obj\Debug\Yap_Lambda.pdb
+C:\Users\ACT-STUDENT\Desktop\Yap_Lambda\Yap_Lambda\obj\Debug\Yap_Lambda.exe.config
